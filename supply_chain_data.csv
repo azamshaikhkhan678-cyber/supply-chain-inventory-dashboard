@@ -1,0 +1,101 @@
+Date,Month,Quarter,Year,Product ID,Product Name,Product Category,Supplier Name,Warehouse Location,Region,Opening Stock,Incoming Stock,Units Sold,Closing Stock,Reorder Level,Reorder Status,Lead Time (Days),Order Quantity,Delivery Status,Delivery Time (Days),Inventory Holding Cost,Stockout Status,Demand Forecast,Actual Demand,Forecast Accuracy %,Inventory Turnover Ratio
+2026-01-01,January,Q1,2026,PROD-007,Product H7,Electronics,Titan Industries,WH-West (LA),North America,1360,0,1360,0,598,Trigger Reorder,9,897,On Time,9,0.0,Yes,1495,1568,0.9512,2.0
+2026-01-03,January,Q1,2026,PROD-004,Product E4,Electronics,Vertex Supply Chain,WH-North (Chicago),North America,3419,1500,1622,3297,834,Stable,10,1251,Delayed,12,8110.62,No,2085,1622,0.7779,0.48
+2026-01-06,January,Q1,2026,PROD-012,Product C12,Industrial,Vertex Supply Chain,WH-West (LA),LATAM,3885,1000,873,4012,458,Stable,13,687,On Time,13,8545.56,No,1147,873,0.7611,0.22
+2026-01-08,January,Q1,2026,PROD-015,Product F15,Automotive,Titan Industries,WH-East (NJ),North America,689,0,689,0,384,Trigger Reorder,6,576,On Time,6,0.0,Yes,962,905,0.9407,2.0
+2026-01-11,January,Q1,2026,PROD-009,Product J9,Industrial,Vertex Supply Chain,WH-East (NJ),LATAM,2935,2000,2840,2095,984,Stable,11,1476,On Time,11,5321.3,No,2461,2840,0.846,1.13
+2026-01-13,January,Q1,2026,PROD-007,Product H7,Electronics,Nexus Global,WH-West (LA),EMEA,3056,1500,522,4034,173,Stable,6,259,On Time,6,19766.6,No,434,522,0.7972,0.15
+2026-01-16,January,Q1,2026,PROD-018,Product I18,Automotive,Beacon Corp,WH-West (LA),North America,661,500,1161,0,558,Trigger Reorder,10,837,On Time,10,0.0,Yes,1395,1463,0.9513,3.51
+2026-01-18,January,Q1,2026,PROD-018,Product I18,Automotive,Apex Logistics,WH-East (NJ),North America,1378,1500,1225,1653,465,Stable,11,697,On Time,11,3702.72,No,1163,1225,0.9467,0.81
+2026-01-21,January,Q1,2026,PROD-001,Product B1,Electronics,Beacon Corp,WH-South (Dallas),APAC,2527,0,1326,1201,624,Stable,10,936,Delayed,11,5968.97,No,1562,1326,0.8489,0.71
+2026-01-23,January,Q1,2026,PROD-009,Product J9,Industrial,Beacon Corp,WH-East (NJ),LATAM,3599,1500,2205,2894,905,Stable,3,1357,On Time,3,8392.6,No,2263,2205,0.9744,0.68
+2026-01-26,January,Q1,2026,PROD-008,Product I8,Industrial,Titan Industries,WH-North (Chicago),APAC,3273,1500,1280,3493,544,Stable,5,816,Delayed,6,14076.79,No,1360,1280,0.9412,0.38
+2026-01-28,January,Q1,2026,PROD-015,Product F15,Automotive,Beacon Corp,WH-East (NJ),APAC,1984,0,1349,635,505,Stable,6,757,On Time,6,2940.05,No,1263,1349,0.9319,1.03
+2026-01-31,January,Q1,2026,PROD-013,Product D13,Industrial,Nexus Global,WH-South (Dallas),North America,2178,1500,1782,1896,583,Stable,9,874,On Time,9,4228.08,No,1459,1782,0.7786,0.87
+2026-02-02,February,Q1,2026,PROD-006,Product G6,Electronics,Apex Logistics,WH-North (Chicago),North America,4127,500,2427,2200,952,Stable,12,1428,On Time,12,6820.0,No,2381,2427,0.9807,0.77
+2026-02-05,February,Q1,2026,PROD-020,Product A20,Automotive,Titan Industries,WH-South (Dallas),LATAM,1782,0,1782,0,751,Trigger Reorder,7,1126,On Time,7,0.0,Yes,1879,1911,0.983,2.0
+2026-02-07,February,Q1,2026,PROD-009,Product J9,Industrial,Apex Logistics,WH-North (Chicago),North America,4263,500,1683,3080,768,Stable,14,1152,On Time,14,11519.2,No,1920,1683,0.8766,0.46
+2026-02-10,February,Q1,2026,PROD-017,Product H17,Automotive,Titan Industries,WH-South (Dallas),EMEA,1198,1000,994,1204,416,Stable,9,624,On Time,9,6730.36,No,1041,994,0.9549,0.83
+2026-02-12,February,Q1,2026,PROD-012,Product C12,Industrial,Beacon Corp,WH-West (LA),EMEA,3277,2000,1924,3353,735,Stable,9,1102,Delayed,10,8617.21,No,1839,1924,0.9538,0.58
+2026-02-15,February,Q1,2026,PROD-006,Product G6,Electronics,Vertex Supply Chain,WH-West (LA),APAC,2430,1500,831,3099,403,Stable,13,604,On Time,13,5206.32,No,1008,831,0.8244,0.3
+2026-02-17,February,Q1,2026,PROD-004,Product E4,Electronics,Nexus Global,WH-West (LA),North America,1869,1000,504,2365,218,Stable,9,327,On Time,9,10902.65,No,546,504,0.9231,0.24
+2026-02-20,February,Q1,2026,PROD-011,Product B11,Industrial,Apex Logistics,WH-South (Dallas),North America,4561,1000,714,4847,264,Stable,12,396,Delayed,17,18515.54,No,662,714,0.9215,0.15
+2026-02-22,February,Q1,2026,PROD-016,Product G16,Automotive,Titan Industries,WH-West (LA),LATAM,4223,1000,1688,3535,633,Stable,11,949,On Time,11,16437.75,No,1583,1688,0.9337,0.44
+2026-02-25,February,Q1,2026,PROD-001,Product B1,Electronics,Apex Logistics,WH-East (NJ),North America,4491,1500,1701,4290,819,Stable,8,1228,On Time,8,17631.9,No,2048,1701,0.8306,0.39
+2026-02-27,February,Q1,2026,PROD-018,Product I18,Automotive,Vertex Supply Chain,WH-West (LA),LATAM,4933,500,1169,4264,542,Stable,3,813,On Time,3,15862.08,No,1356,1169,0.8621,0.25
+2026-03-02,March,Q1,2026,PROD-008,Product I8,Industrial,Beacon Corp,WH-East (NJ),EMEA,1718,1000,862,1856,343,Stable,8,514,On Time,8,4825.6,No,859,862,0.9965,0.48
+2026-03-04,March,Q1,2026,PROD-008,Product I8,Industrial,Titan Industries,WH-West (LA),APAC,3854,500,1283,3071,478,Stable,3,717,On Time,3,14587.25,No,1197,1283,0.9282,0.37
+2026-03-07,March,Q1,2026,PROD-017,Product H17,Automotive,Beacon Corp,WH-North (Chicago),EMEA,516,2000,1773,743,587,Stable,5,880,Delayed,6,4301.97,No,1469,1773,0.7931,2.82
+2026-03-09,March,Q1,2026,PROD-003,Product D3,Electronics,Nexus Global,WH-North (Chicago),EMEA,1199,1500,532,2167,236,Stable,9,354,On Time,9,7974.56,No,590,532,0.9017,0.32
+2026-03-12,March,Q1,2026,PROD-003,Product D3,Electronics,Nexus Global,WH-South (Dallas),EMEA,2395,0,1083,1312,410,Stable,8,615,On Time,8,3463.68,No,1025,1083,0.9434,0.58
+2026-03-14,March,Q1,2026,PROD-017,Product H17,Automotive,Apex Logistics,WH-West (LA),North America,3675,1000,599,4076,258,Stable,12,387,Delayed,14,20991.4,No,645,599,0.9287,0.15
+2026-03-17,March,Q1,2026,PROD-007,Product H7,Electronics,Nexus Global,WH-West (LA),APAC,4631,1500,619,5512,319,Stable,5,478,On Time,5,17583.28,No,799,619,0.7747,0.12
+2026-03-19,March,Q1,2026,PROD-019,Product J19,Automotive,Titan Industries,WH-West (LA),North America,4236,0,1810,2426,619,Stable,12,928,On Time,12,4051.42,No,1548,1810,0.8307,0.54
+2026-03-22,March,Q1,2026,PROD-001,Product B1,Electronics,Titan Industries,WH-East (NJ),LATAM,3624,0,395,3229,161,Stable,8,241,On Time,8,12560.81,No,404,395,0.9777,0.12
+2026-03-24,March,Q1,2026,PROD-020,Product A20,Automotive,Nexus Global,WH-East (NJ),EMEA,4864,2000,1393,5471,611,Stable,3,916,On Time,3,18874.95,No,1529,1393,0.9111,0.27
+2026-03-27,March,Q1,2026,PROD-005,Product F5,Electronics,Nexus Global,WH-West (LA),EMEA,616,0,616,0,620,Trigger Reorder,7,930,On Time,7,0.0,Yes,1550,1701,0.9026,2.0
+2026-03-29,March,Q1,2026,PROD-016,Product G16,Automotive,Beacon Corp,WH-East (NJ),APAC,4172,1000,1590,3582,518,Stable,9,777,On Time,9,12393.72,No,1296,1590,0.7731,0.41
+2026-04-01,April,Q2,2026,PROD-012,Product C12,Industrial,Vertex Supply Chain,WH-North (Chicago),LATAM,4749,500,1130,4119,558,Stable,14,837,On Time,14,6919.92,No,1396,1130,0.8095,0.25
+2026-04-03,April,Q2,2026,PROD-016,Product G16,Automotive,Beacon Corp,WH-West (LA),EMEA,2765,1500,876,3389,380,Stable,7,570,On Time,7,14471.03,No,950,876,0.9221,0.28
+2026-04-06,April,Q2,2026,PROD-020,Product A20,Automotive,Nexus Global,WH-North (Chicago),LATAM,4230,1000,1527,3703,566,Stable,6,849,On Time,6,21292.25,No,1415,1527,0.9208,0.38
+2026-04-08,April,Q2,2026,PROD-020,Product A20,Automotive,Apex Logistics,WH-North (Chicago),LATAM,2187,1000,1926,1261,787,Stable,5,1180,Delayed,7,5447.52,No,1968,1926,0.9787,1.12
+2026-04-11,April,Q2,2026,PROD-010,Product A10,Industrial,Apex Logistics,WH-South (Dallas),LATAM,1566,0,328,1238,164,Stable,4,246,On Time,4,5298.64,No,411,328,0.7981,0.23
+2026-04-13,April,Q2,2026,PROD-010,Product A10,Industrial,Titan Industries,WH-North (Chicago),LATAM,2125,500,457,2168,205,Stable,6,307,On Time,6,6655.76,No,514,457,0.8891,0.21
+2026-04-16,April,Q2,2026,PROD-004,Product E4,Electronics,Titan Industries,WH-West (LA),LATAM,1228,1500,901,1827,430,Stable,11,645,On Time,11,7472.43,No,1075,901,0.8381,0.59
+2026-04-18,April,Q2,2026,PROD-018,Product I18,Automotive,Apex Logistics,WH-South (Dallas),North America,2643,500,379,2764,174,Stable,9,261,Delayed,10,13543.6,No,436,379,0.8693,0.14
+2026-04-21,April,Q2,2026,PROD-017,Product H17,Automotive,Apex Logistics,WH-East (NJ),LATAM,1095,1500,1586,1009,706,Stable,5,1059,On Time,5,1563.95,No,1765,1586,0.8986,1.51
+2026-04-23,April,Q2,2026,PROD-009,Product J9,Industrial,Vertex Supply Chain,WH-East (NJ),North America,3002,2000,1245,3757,500,Stable,7,750,On Time,7,15816.97,No,1250,1245,0.996,0.37
+2026-04-26,April,Q2,2026,PROD-004,Product E4,Electronics,Nexus Global,WH-North (Chicago),APAC,4136,1500,1163,4473,584,Stable,12,876,Delayed,17,26748.54,No,1462,1163,0.7955,0.27
+2026-04-28,April,Q2,2026,PROD-011,Product B11,Industrial,Nexus Global,WH-South (Dallas),North America,1453,1000,1870,583,776,Trigger Reorder,10,1164,On Time,10,3031.6,No,1942,1870,0.9629,1.84
+2026-05-01,May,Q2,2026,PROD-005,Product F5,Electronics,Beacon Corp,WH-West (LA),LATAM,2886,1000,1672,2214,715,Stable,6,1072,On Time,6,12354.12,No,1788,1672,0.9351,0.66
+2026-05-03,May,Q2,2026,PROD-006,Product G6,Electronics,Titan Industries,WH-North (Chicago),North America,3986,500,1769,2717,642,Stable,12,963,Delayed,15,5434.0,No,1605,1769,0.8978,0.53
+2026-05-06,May,Q2,2026,PROD-018,Product I18,Automotive,Vertex Supply Chain,WH-South (Dallas),North America,1743,1000,1685,1058,833,Stable,11,1249,Delayed,12,4824.48,No,2083,1685,0.8089,1.2
+2026-05-08,May,Q2,2026,PROD-017,Product H17,Automotive,Beacon Corp,WH-West (LA),EMEA,1323,1000,1896,427,616,Trigger Reorder,14,924,Delayed,19,1708.0,No,1540,1896,0.7688,2.17
+2026-05-11,May,Q2,2026,PROD-011,Product B11,Industrial,Apex Logistics,WH-North (Chicago),EMEA,3311,0,1811,1500,660,Stable,11,990,On Time,11,6495.0,No,1650,1811,0.9024,0.75
+2026-05-13,May,Q2,2026,PROD-003,Product D3,Electronics,Beacon Corp,WH-West (LA),EMEA,3203,1500,1764,2939,574,Stable,10,861,On Time,10,5819.22,No,1435,1764,0.7707,0.57
+2026-05-16,May,Q2,2026,PROD-004,Product E4,Electronics,Apex Logistics,WH-North (Chicago),North America,4685,500,740,4445,375,Stable,11,562,On Time,11,15735.3,No,939,740,0.7881,0.16
+2026-05-18,May,Q2,2026,PROD-020,Product A20,Automotive,Beacon Corp,WH-East (NJ),North America,3008,1000,1081,2927,529,Stable,5,793,Delayed,7,16888.79,No,1324,1081,0.8165,0.36
+2026-05-21,May,Q2,2026,PROD-002,Product C2,Electronics,Apex Logistics,WH-East (NJ),North America,509,2000,1062,1447,510,Stable,10,765,On Time,10,7452.05,No,1276,1062,0.8323,1.09
+2026-05-23,May,Q2,2026,PROD-017,Product H17,Automotive,Beacon Corp,WH-South (Dallas),APAC,4500,500,806,4194,364,Stable,9,546,Delayed,11,21641.04,No,910,806,0.8857,0.19
+2026-05-26,May,Q2,2026,PROD-005,Product F5,Electronics,Beacon Corp,WH-West (LA),EMEA,4136,2000,421,5715,192,Stable,11,288,On Time,11,33089.85,No,482,421,0.8734,0.09
+2026-05-28,May,Q2,2026,PROD-001,Product B1,Electronics,Nexus Global,WH-West (LA),North America,2323,0,2143,180,789,Trigger Reorder,4,1183,On Time,4,943.2,No,1974,2143,0.9144,1.71
+2026-05-31,May,Q2,2026,PROD-012,Product C12,Industrial,Nexus Global,WH-East (NJ),APAC,888,0,888,0,464,Trigger Reorder,9,696,Delayed,10,0.0,Yes,1162,1105,0.9509,2.0
+2026-06-02,June,Q2,2026,PROD-007,Product H7,Electronics,Vertex Supply Chain,WH-South (Dallas),APAC,1829,1000,1703,1126,703,Stable,4,1054,On Time,4,4290.06,No,1758,1703,0.9687,1.15
+2026-06-05,June,Q2,2026,PROD-010,Product A10,Industrial,Beacon Corp,WH-South (Dallas),EMEA,2628,2000,651,3977,214,Stable,12,321,Delayed,13,7158.6,No,537,651,0.7877,0.2
+2026-06-07,June,Q2,2026,PROD-002,Product C2,Electronics,Titan Industries,WH-South (Dallas),LATAM,4800,0,384,4416,176,Stable,5,264,On Time,5,15765.12,No,442,384,0.8688,0.08
+2026-06-10,June,Q2,2026,PROD-008,Product I8,Industrial,Beacon Corp,WH-South (Dallas),APAC,1399,0,1399,0,847,Trigger Reorder,5,1270,On Time,5,0.0,Yes,2119,2025,0.9556,2.0
+2026-06-12,June,Q2,2026,PROD-019,Product J19,Automotive,Titan Industries,WH-North (Chicago),EMEA,4400,0,787,3613,369,Stable,4,553,On Time,4,10802.87,No,923,787,0.8527,0.2
+2026-06-15,June,Q2,2026,PROD-015,Product F15,Automotive,Apex Logistics,WH-East (NJ),North America,2761,0,612,2149,202,Stable,3,303,On Time,3,11024.37,No,506,612,0.7905,0.25
+2026-06-17,June,Q2,2026,PROD-020,Product A20,Automotive,Nexus Global,WH-North (Chicago),EMEA,3266,1000,451,3815,182,Stable,12,273,Delayed,13,14840.35,No,455,451,0.9912,0.13
+2026-06-20,June,Q2,2026,PROD-014,Product E14,Industrial,Apex Logistics,WH-East (NJ),North America,2146,1500,1663,1983,869,Stable,4,1303,On Time,4,7733.7,No,2174,1663,0.7649,0.81
+2026-06-22,June,Q2,2026,PROD-010,Product A10,Industrial,Apex Logistics,WH-West (LA),EMEA,1562,500,1314,748,661,Stable,14,991,On Time,14,2273.92,No,1654,1314,0.7944,1.14
+2026-06-25,June,Q2,2026,PROD-003,Product D3,Electronics,Nexus Global,WH-North (Chicago),North America,732,500,570,662,204,Stable,10,306,On Time,10,2674.48,No,510,570,0.8824,0.82
+2026-06-27,June,Q2,2026,PROD-006,Product G6,Electronics,Apex Logistics,WH-North (Chicago),EMEA,3239,1000,1884,2355,864,Stable,13,1296,Delayed,18,9961.65,No,2161,1884,0.8718,0.67
+2026-06-30,June,Q2,2026,PROD-006,Product G6,Electronics,Beacon Corp,WH-West (LA),LATAM,2105,0,1578,527,812,Trigger Reorder,11,1218,On Time,11,2034.22,No,2030,1578,0.7773,1.2
+2026-07-02,July,Q3,2026,PROD-006,Product G6,Electronics,Titan Industries,WH-South (Dallas),North America,967,2000,303,2664,161,Stable,8,241,On Time,8,6047.28,No,403,303,0.7519,0.17
+2026-07-05,July,Q3,2026,PROD-002,Product C2,Electronics,Titan Industries,WH-West (LA),North America,1346,1000,2172,174,743,Trigger Reorder,7,1114,On Time,7,515.04,No,1858,2172,0.831,2.86
+2026-07-07,July,Q3,2026,PROD-020,Product A20,Automotive,Vertex Supply Chain,WH-North (Chicago),APAC,4708,1000,2583,3125,979,Stable,8,1468,On Time,8,6843.75,No,2448,2583,0.9449,0.66
+2026-07-10,July,Q3,2026,PROD-003,Product D3,Electronics,Nexus Global,WH-West (LA),North America,4244,500,1993,2751,975,Stable,9,1462,On Time,9,6629.91,No,2439,1993,0.8171,0.57
+2026-07-12,July,Q3,2026,PROD-005,Product F5,Electronics,Apex Logistics,WH-North (Chicago),EMEA,2876,1500,2361,2015,957,Stable,8,1435,On Time,8,6186.05,No,2394,2361,0.9862,0.97
+2026-07-15,July,Q3,2026,PROD-012,Product C12,Industrial,Vertex Supply Chain,WH-West (LA),North America,2469,0,965,1504,310,Stable,4,465,On Time,4,2707.2,No,775,965,0.7548,0.49
+2026-07-17,July,Q3,2026,PROD-008,Product I8,Industrial,Nexus Global,WH-South (Dallas),LATAM,4350,1500,1872,3978,900,Stable,7,1350,On Time,7,10183.68,No,2251,1872,0.8316,0.45
+2026-07-20,July,Q3,2026,PROD-013,Product D13,Industrial,Apex Logistics,WH-North (Chicago),North America,1565,500,2065,0,905,Trigger Reorder,5,1357,On Time,5,0.0,Yes,2263,2194,0.9695,2.64
+2026-07-22,July,Q3,2026,PROD-001,Product B1,Electronics,Titan Industries,WH-East (NJ),APAC,3554,500,1877,2177,958,Stable,10,1437,On Time,10,4419.31,No,2397,1877,0.7831,0.66
+2026-07-25,July,Q3,2026,PROD-008,Product I8,Industrial,Titan Industries,WH-East (NJ),North America,2535,1500,1512,2523,528,Stable,8,792,Delayed,9,11807.64,No,1322,1512,0.8563,0.6
+2026-07-27,July,Q3,2026,PROD-004,Product E4,Electronics,Vertex Supply Chain,WH-North (Chicago),LATAM,3145,1500,1088,3557,366,Stable,3,549,On Time,3,13907.87,No,916,1088,0.8122,0.32
+2026-07-30,July,Q3,2026,PROD-020,Product A20,Automotive,Vertex Supply Chain,WH-West (LA),EMEA,3728,1000,2380,2348,997,Stable,4,1495,On Time,4,9838.12,No,2494,2380,0.9543,0.78
+2026-08-01,August,Q3,2026,PROD-011,Product B11,Industrial,Titan Industries,WH-West (LA),EMEA,2616,1500,2086,2030,906,Stable,8,1359,On Time,8,7267.4,No,2265,2086,0.921,0.9
+2026-08-04,August,Q3,2026,PROD-013,Product D13,Industrial,Beacon Corp,WH-West (LA),North America,3505,0,2418,1087,815,Stable,14,1222,On Time,14,6119.81,No,2039,2418,0.8141,1.05
+2026-08-06,August,Q3,2026,PROD-008,Product I8,Industrial,Apex Logistics,WH-South (Dallas),APAC,626,0,626,0,401,Trigger Reorder,11,601,On Time,11,0.0,Yes,1003,940,0.9372,2.0
+2026-08-09,August,Q3,2026,PROD-001,Product B1,Electronics,Titan Industries,WH-West (LA),APAC,3361,0,1724,1637,818,Stable,9,1227,Delayed,12,8856.17,No,2045,1724,0.843,0.69
+2026-08-11,August,Q3,2026,PROD-015,Product F15,Automotive,Titan Industries,WH-South (Dallas),EMEA,1832,500,542,1790,206,Stable,5,309,On Time,5,7016.8,No,516,542,0.9496,0.3
+2026-08-14,August,Q3,2026,PROD-007,Product H7,Electronics,Vertex Supply Chain,WH-South (Dallas),North America,3781,500,1025,3256,535,Stable,13,802,On Time,13,7456.24,No,1338,1025,0.7661,0.29
+2026-08-16,August,Q3,2026,PROD-001,Product B1,Electronics,Vertex Supply Chain,WH-North (Chicago),North America,4880,1000,912,4968,424,Stable,4,636,On Time,4,11426.4,No,1061,912,0.8596,0.19
+2026-08-19,August,Q3,2026,PROD-020,Product A20,Automotive,Titan Industries,WH-East (NJ),LATAM,4201,1500,1855,3846,594,Stable,3,891,On Time,3,11114.94,No,1486,1855,0.7517,0.46
+2026-08-21,August,Q3,2026,PROD-019,Product J19,Automotive,Titan Industries,WH-East (NJ),EMEA,3889,0,777,3112,331,Stable,10,496,On Time,10,8775.84,No,828,777,0.9384,0.22
+2026-08-24,August,Q3,2026,PROD-002,Product C2,Electronics,Titan Industries,WH-West (LA),EMEA,2661,500,1113,2048,538,Stable,3,807,On Time,3,3768.32,No,1346,1113,0.8269,0.47
+2026-08-26,August,Q3,2026,PROD-010,Product A10,Industrial,Apex Logistics,WH-East (NJ),APAC,2401,1000,375,3026,181,Stable,4,271,Delayed,6,10106.84,No,454,375,0.826,0.14
+2026-08-29,August,Q3,2026,PROD-008,Product I8,Industrial,Titan Industries,WH-West (LA),LATAM,3810,1000,1349,3461,674,Stable,10,1011,Delayed,11,18516.35,No,1687,1349,0.7996,0.37
+2026-08-31,August,Q3,2026,PROD-020,Product A20,Automotive,Beacon Corp,WH-East (NJ),LATAM,664,0,664,0,523,Trigger Reorder,4,784,On Time,4,0.0,Yes,1309,1173,0.8961,2.0
+2026-09-03,September,Q3,2026,PROD-019,Product J19,Automotive,Nexus Global,WH-East (NJ),APAC,1808,500,1100,1208,365,Stable,7,547,On Time,7,3225.36,No,913,1100,0.7952,0.73
+2026-09-05,September,Q3,2026,PROD-012,Product C12,Industrial,Vertex Supply Chain,WH-South (Dallas),EMEA,2055,1000,1515,1540,533,Stable,11,799,On Time,11,4358.2,No,1333,1515,0.8635,0.84
