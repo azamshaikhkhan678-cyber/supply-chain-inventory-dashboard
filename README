@@ -1,0 +1,58 @@
+# Supply Chain Efficiency & Inventory Optimization Dashboard
+
+## 📌 Project Executive Overview
+This interactive Power BI dashboard provides end-to-end visibility into modern enterprise logistics, warehouse operations, and vendor fulfillment pipelines. It solves a classic corporate challenge: balancing inventory levels to eliminate stockouts while minimizing expensive warehousing costs.
+
+By transforming raw data into actionable insights, this dashboard serves as a central decision-making tool for operations managers, inventory planners, and procurement teams looking to optimize supply chain performance.
+
+---
+
+## 🎯 Core Business Objectives
+* **Optimize Inventory Velocity:** Track and improve the Inventory Turnover Ratio to keep working capital moving efficiently.
+* **Protect Revenue Streams:** Monitor and flag stockout risks early, allowing teams to take proactive action before sales are lost.
+* **Enhance Vendor Accountability:** Evaluate supplier performance to instantly isolate supply chain bottlenecks.
+
+---
+
+## 🛠️ Tech Stack & Tools Used
+* **Business Intelligence Engine:** Microsoft Power BI Desktop
+* **Data Transformation (ETL):** Power Query Engine
+* **Analytical Modeling:** Data Analysis Expressions (DAX)
+* **Dataset Engine:** Python (For creating structured, statistically sound synthetic source records)
+
+---
+
+## ⚡ Core Data Transformation Pipeline (Power Query)
+Before building visuals, the raw data went through a rigorous cleaning process in Power Query to ensure total data integrity:
+1. **Explicit Type Assignment:** Converted inventory quantities to Whole Numbers, delivery times to fixed numeric integers, and financial metrics to Currency.
+2. **Data Integrity Check:** Screened all key columns to eliminate empty records and null values, preventing errors in downstream calculations.
+
+---
+
+## 🧠 Custom DAX Calculations Implemented
+The analytical layer uses custom performance calculations to track critical supply chain metrics:
+* **Total Inventory On Hand:** Tracks the remaining balance of items sitting inside all company warehouses.
+* **Stockout Events:** Counts every recorded instance where buyer demand exceeded the company's total available on-hand stock.
+
+---
+
+## 🖼️ Dashboard Interface Preview
+### Main Executive Overview Canvas
+![Dashboard Preview](./high_res_dashboard_landing.png)
+
+---
+
+## 💼 Resume & ATS-Optimized Project Descriptions
+
+### 1️⃣ One-Line Quick Summary (For Profile Headlines)
+> Developed an interactive Power BI dashboard that unifies supply chain logistics data to optimize inventory turnover ratios and reduce costly stockout incidents.
+
+### 2️⃣ Short Summary (For Experience Sections)
+> Engineered a comprehensive Power BI dashboard analyzing warehouse inventory metrics and vendor delivery performance. Built dynamic DAX measures to calculate inventory turnover and forecast accuracy, providing operational managers with data-driven insights that cut carrying costs and prevent stockouts.
+
+### 3️⃣ Detailed ATS-Friendly Professional Breakdown (For Resumes)
+**Supply Chain BI Developer & Inventory Analyst Portfolio Project**
+* Designed and implemented an end-to-end Power BI analytics engine that tracks core logistics operational data across multiple warehousing networks and global supply regions.
+* Modeled data with a clean star-schema design pattern. Cleaned and prepared data using advanced Power Query transformations, ensuring reliable data formatting across all fields.
+* Formulated custom DAX measures to compute inventory turnover ratios, forecast accuracy, average supplier lead times, and on-time delivery percentages (%OTD).
+* Created an executive-ready dashboard with intuitive navigation controls, clear KPI cards, and smart conditional alerts. The final solution gives logistics teams actionable, data-driven visibility that helps lower holding costs and optimize safety stock levels.
